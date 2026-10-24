@@ -1,0 +1,16 @@
+# Generated files and machine-specific state
+**/build/
+**/.dart_tool/
+**/.gradle/
+**/.kotlin/
+**/.cxx/
+**/.idea/
+**/.playwright-cli/
+**/output/
+**/__pycache__/
+*.iml
+*.log
+/test-results.txt
+
+# Separate coursework outside this repository's scope
+/bim453_hw1/

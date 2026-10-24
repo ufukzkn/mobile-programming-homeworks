@@ -1,0 +1,7 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {"name": "Campus (Flutter)", "request": "launch", "type": "dart"},
+    {"name": "Campus (Chrome)", "request": "launch", "type": "dart", "deviceId": "chrome"}
+  ]
+}
