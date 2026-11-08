@@ -27,3 +27,16 @@ flutter run
 ```
 
 For platform setup, tests, screenshots and credits, see [HW1 README](hw1/README.md).
+
+## HW2 quick start
+
+Use Flutter **3.47.6 Stable**. From the repository root:
+
+```sh
+cd hw2
+flutter pub get
+flutter devices
+flutter run
+```
+
+For Android setup and tests, see the [HW2 README](hw2/README.md).
