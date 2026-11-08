@@ -12,6 +12,7 @@ Each homework lives in its own folder with its source code, assets, setup instru
 | Homework | Project | Instructions |
 | --- | --- | --- |
 | [HW1](hw1/) | Campus Event Explorer — offline Flutter app | [README](hw1/README.md) |
+| [HW2](hw2/) | Smart Home Controller — Dart device models and Flutter dashboard | [README](hw2/README.md) |
 
 ## HW1 quick start
 
