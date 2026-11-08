@@ -153,15 +153,9 @@ class _HomeScreenState extends State<HomeScreen> {
             runSpacing: 4,
             children: [
               const Icon(Icons.devices_other_rounded, size: 18, color: _accent),
+            
               Text(
-                'Total created: ${SmartDevice.totalDevices}',
-                style: const TextStyle(
-                  color: _ink,
-                  fontWeight: FontWeight.w700,
-                ),
-              ),
-              Text(
-                'In list: ${_devices.length}',
+                'Total Devices: ${_devices.length}',
                 style: const TextStyle(color: _muted),
               ),
             ],
